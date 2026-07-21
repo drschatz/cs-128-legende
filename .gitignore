@@ -1,1 +1,19 @@
 node_modules/
+
+# Next.js build and cache
+.next/
+out/
+.turbo/
+
+# Secrets and API Keys
+.env
+.env*.local
+
+# OS junk files
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.contentlayer/
