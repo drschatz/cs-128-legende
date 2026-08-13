@@ -27,7 +27,7 @@ function pickSquirrel() {
 const POLICIES = [
   { title: 'Interactive Lecture', body: 'Three times a week there will be an interactive lecture, offered both in person and recorded. Attendance is not required, but it earns you extra credit!' },
   { title: 'Second Chance Exams', body: 'Sometimes we just need a second chance. There are three exams, and each one has a second chance retake, so one bad day does not ruin your grade.' },
-  { title: 'Professor Office Hours', body: 'Twice a week, I personally hold office hours to connect and clear up any misunderstandings.' },
+  { title: 'Professor Office Hours', body: 'In addition to staff run office hours, I personally hold 3 hours a week to connect and clear up any misunderstandings.' },
   { title: 'Additional Material', body: 'For each exam, I provide plenty of practice problems to help you feel fully prepared.' },
   { title: 'AI Conscious Material', body: 'My PhD is in AI, so I understand both its strengths and its limits. I have designed the coursework to give you the tools you need to succeed in an AI world.' },
   { title: 'Three Large Projects', body: 'Each multi-week project helps you solidify concepts and build something you can be proud of. Weekly checkpoints keep the workload manageable.' }
