@@ -36,7 +36,7 @@ const POLICIES = [
 export default function CoursePortal() {
   const constants = {
     courseNumber: 'CS 128',
-    section: 'Spring 2027 - Legende Section',
+    section: 'Spring 2027 - Sections BL1 and BL2',
     courseTitle: 'Introduction to Computer Science II',
     professor: 'Professor Jule Legende (Schatz)',
     institution: 'University of Illinois Urbana-Champaign'
