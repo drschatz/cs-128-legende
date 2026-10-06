@@ -267,7 +267,7 @@ export default function CoursePortal() {
             <p style={styles.involvedItemLast}>
               <strong>Learn more:</strong> To read more about me and my teaching
               style, visit{' '}
-              <a href="https://juleschatz.com" target="_blank" rel="noopener noreferrer" style={styles.link}>juleschatz.com</a>.
+              <a href="https://www.jule-legende.com/" target="_blank" rel="noopener noreferrer" style={styles.link}>jule-legende.com</a>.
             </p>
           </div>
         </section>
