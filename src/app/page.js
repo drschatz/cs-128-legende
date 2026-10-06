@@ -256,7 +256,7 @@ export default function CoursePortal() {
           </p>
           <div style={styles.involvedBand}>
             <p style={styles.involvedItem}>
-              <strong>Enrolling:</strong> For Spring 2027, select the Legende or Schatz section of CS 128 when you register (sections BL1 and BL2). This section is completely seperate from the Nowak sections.
+              <strong>Enrolling:</strong> For Spring 2027, select the Legende or Schatz section of CS 128 when you register (sections BL1 and BL2). This section is completely separate from the Nowak sections.
             </p>
             <p style={styles.involvedItem}>
               <strong>Course Assistants (CAs):</strong> If you would like to be an
