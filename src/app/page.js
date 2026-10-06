@@ -256,12 +256,11 @@ export default function CoursePortal() {
           </p>
           <div style={styles.involvedBand}>
             <p style={styles.involvedItem}>
-              <strong>Enrolling:</strong> For Spring 2027, select the Legende or Schatz section of CS 128 when you register. This section is completely seperate from the Nowak section.
+              <strong>Enrolling:</strong> For Spring 2027, select the Legende or Schatz section of CS 128 when you register (sections BL1 and BL2). This section is completely seperate from the Nowak sections.
             </p>
             <p style={styles.involvedItem}>
               <strong>Course Assistants (CAs):</strong> If you would like to be an
-              undergraduate course assistant, email me at{' '}
-              <a href="mailto:drschatz@illinois.edu" style={styles.link}>drschatz@illinois.edu</a>.
+              undergraduate course assistant, please fill out this <a href="https://forms.gle/8nXz4K2fCzFFbn6N6">interest form</a>.
               I am not accepting applications for graduate teaching assistants at
               this time.
             </p>
